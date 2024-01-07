@@ -12,3 +12,9 @@ program to find the area of circle
 
 # FactorialCalculator
  program to find the factorial of a number
+
+ # command line program
+# -------------------
+# main
+an interface program
+ 
