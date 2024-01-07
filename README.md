@@ -9,3 +9,6 @@ it is an applet program to display the traffic light
 # ------------
 # AreaOfCirle
 program to find the area of circle
+
+# FactorialCalculator
+ program to find the factorial of a number
