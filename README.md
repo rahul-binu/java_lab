@@ -4,11 +4,15 @@ just java lab questions with its sourse code
 # -------------
 # TrafficLight
 it is an applet program to display the traffic light
+# House
+applet progrma to draw house
 
 # GUI programs
 # ------------
 # AreaOfCirle
 program to find the area of circle
+# SumCalculater 
+sum of two numbers
 
 # FactorialCalculator
  program to find the factorial of a number
