@@ -29,3 +29,5 @@ program to manage bank account saving and current
 multi treading program
 # ShapeExample 
 interface example
+# SumOfDigits
+exception handiling
