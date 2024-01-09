@@ -13,6 +13,8 @@ applet progrma to draw house
 program to find the area of circle
 # SumCalculater 
 sum of two numbers
+# FactorialCalculator
+ficatorial of the number
 
 # FactorialCalculator
  program to find the factorial of a number
