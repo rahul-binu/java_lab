@@ -33,7 +33,7 @@ class StudentResult {
 
 public class ResultCalculator {
     public static void main(String[] args) {
-        int[] marks = { 85, 90, 78, 92, 88 }; // Replace with actual marks
+        int[] marks = { 85, 90, 78, 92, 88 }; 
 
         StudentResult studentResult = new StudentResult("John Doe", 123, "2022-01-01", 456, marks);
 
