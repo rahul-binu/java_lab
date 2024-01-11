@@ -9,7 +9,6 @@ interface Shape {
 class Circle implements Shape {
     private double radius;
 
-    // Constructor
     public Circle(double radius) {
         this.radius = radius;
     }
