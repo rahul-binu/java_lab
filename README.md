@@ -21,7 +21,7 @@ ficatorial of the number
 # FactorialCalculator
  program to find the factorial of a number
 
- # command line program
+ # CLI
 # -------------------
 # main
 an interface program
