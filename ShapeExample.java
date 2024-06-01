@@ -12,7 +12,7 @@ class Circle implements Shape {
     public Circle(double radius) {
         this.radius = radius;
     }
-
+    
     // Implement the calculateArea method from the Shape interface
     @Override
     public double calculateArea() {
